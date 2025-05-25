@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/dashboard-pfe/static/js/main.b260c4ab.js",
+    "main.js": "/dashboard-pfe/static/js/main.84855c8d.js",
     "static/js/453.59b8a61b.chunk.js": "/dashboard-pfe/static/js/453.59b8a61b.chunk.js",
     "index.html": "/dashboard-pfe/index.html",
-    "main.b260c4ab.js.map": "/dashboard-pfe/static/js/main.b260c4ab.js.map",
+    "main.84855c8d.js.map": "/dashboard-pfe/static/js/main.84855c8d.js.map",
     "453.59b8a61b.chunk.js.map": "/dashboard-pfe/static/js/453.59b8a61b.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.b260c4ab.js"
+    "static/js/main.84855c8d.js"
   ]
 }
